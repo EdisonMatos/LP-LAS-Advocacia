@@ -131,18 +131,18 @@ const content = {
       miniTag: "PREVIDENCIÁRIO, TRABALHISTA E CONSUMERISTA EM SALVADOR - BA",
       title: (
         <h1 className="mb-[16px]">
-          O sistema conta com
-          <span className="text-primary"> seu silêncio</span>
+          A inércia compromete
+          <span className="text-primary"> sua defesa</span>
         </h1>
       ),
       subtitle:
-        "Enquanto você espera, seus direitos seguem sendo deixados pra trás. Chega disso.",
+        "A omissão é adversária do Direito. Não permita que seus interesses sejam negligenciados.",
       heroImgPhone: heroImgPhone, // img da pessoa mobile
       heroDesktop: heroImgDesktop, //bg com foto da pessoa
       heroImg: bgHeroImg, //fundo da Hero
       heroDefaultImage: heroDefaultImg, //imagem da heroDefault Mobile
       backgroundPerson: backgroundPersonMobile,
-      ctaButtonText: "Atue com quem resolve",
+      ctaButtonText: "Aja com respaldo jurídico",
       obsHero: {
         icon: (
           <svg
@@ -162,7 +162,7 @@ const content = {
             <path d="m16 18 2 2 4-4" />
           </svg>
         ),
-        text: "Atendimento presencial e online para todo território nacional.",
+        text: "Consultas presenciais e virtuais com abrangência nacional.",
       },
       ctaButtonAriaLabel:
         "Botão para chamada de ação para contato pelo whatsapp",
