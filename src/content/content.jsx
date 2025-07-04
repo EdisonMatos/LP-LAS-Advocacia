@@ -189,15 +189,15 @@ const content = {
     },
     features: {
       miniTag: "ÁREAS DE ATUAÇÃO",
-      title: "Compromisso com a justiça em diversas frentes",
+      title: "Excelência jurídica em múltiplos ramos do Direito",
       subtitle:
-        "Atuação firme e acessível em defesa dos seus direitos, onde for preciso",
+        "Atuação estratégica, com rigor técnico e disponibilidade, em defesa intransigente de seus direitos.",
       imgFeatures: imgFeatures,
       imgDivisor: imgDivisor,
       card1: {
         img: featuresImg1,
         title: "Direito Previdenciário e do Trabalho",
-        subtitle: "Aposentadorias, benefícios e direitos do trabalhador.",
+        subtitle: "Planejamento de aposentadorias e direitos trabalhistas.",
         description: (
           <div>
             A_Definir
@@ -233,7 +233,7 @@ const content = {
       card2: {
         img: featuresImg2,
         title: "Direito do Consumidor e Administrativo",
-        subtitle: "Defesa do consumidor e atuação na esfera pública.",
+        subtitle: "Defesa técnica do consumidor e atuação pública eficaz.",
         description: (
           <div>
             A_Definir
@@ -269,7 +269,7 @@ const content = {
       card3: {
         img: featuresImg3,
         title: "Direito de Família e Sucessões",
-        subtitle: "Divórcios, pensões, guarda e inventários judiciais.",
+        subtitle: "Relações familiares, partilhas e sucessões legais.",
         description: (
           <div>
             A_Definir <br />
@@ -303,7 +303,7 @@ const content = {
       card4: {
         img: featuresImg4,
         title: "Direito Penal, Processual Penal e Propriedade",
-        subtitle: "Defesas criminais e proteção de bens e patrimônios.",
+        subtitle: "Garantias penais e proteção jurídica do patrimônio.",
         description: (
           <div>
             A_Definir
