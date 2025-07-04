@@ -397,42 +397,42 @@ const content = {
         alt: "Imagem profissional de escritório/advogado(a)",
       },
       miniTag: "QUEM É O DR. LOURIVAL ALMEIDA",
-      title: "Minha trajetória",
+      title: "Minha trajetória profissional",
       subtitle:
-        "Justiça com coragem, empatia e compromisso com quem mais precisa",
+        "Comprometido com justiça acessível, humana e tecnicamente eficaz",
       labelInstagram: "Siga-nos no Instagram",
       labelFacebook: "Siga-nos no Facebook",
       labelLinkedin: "Siga-nos no LinkedIn",
       labelX: "Siga-nos no X",
       paragraph: (
         <div>
-          Minha atuação é guiada por valores firmes: transparência, coragem
-          diante dos desafios e compromisso com o resultado.
+          Minha atuação é pautada por valores sólidos: transparência, coragem
+          frente aos desafios e compromisso inegociável com os resultados.
           <br />
-          Acredito que a justiça deve ser acessível a todos — por isso, ofereço
-          condições que facilitam o acesso jurídico, sem burocracia e sem
-          discriminação.
+          Acredito em um Direito acessível e inclusivo — por isso, proporciono
+          condições facilitadas de atendimento, sempre com clareza, objetividade
+          e respeito.
         </div>
       ),
       buttonModalLabelAbout: "Continuar lendo",
       modal: (
         <p>
-          Minha atuação é guiada por valores firmes: transparência, coragem
-          diante dos desafios e compromisso com o resultado.
+          Minha atuação é pautada por valores sólidos: transparência, coragem
+          frente aos desafios e compromisso inegociável com os resultados.
           <br />
           <br />
-          Acredito que a justiça deve ser acessível a todos — por isso, ofereço
-          condições que facilitam o acesso jurídico, sem burocracia e sem
-          discriminação.
+          Acredito em um Direito acessível e inclusivo — por isso, proporciono
+          condições facilitadas de atendimento, sempre com clareza, objetividade
+          e respeito.
           <br />
           <br />
-          Aqui, cada cliente é tratado com respeito, clareza e linguagem direta,
-          independentemente da posição social.
+          Cada cliente é tratado com seriedade e escuta ativa, independentemente
+          de sua posição social.
           <br />
           <br />
-          Assumo cada causa com garra, sempre buscando a melhor solução — porque
-          sim, tudo tem solução. E quando você confia sua defesa ou seus
-          direitos ao meu trabalho, saiba: eu vou até o fim por você.
+          Assumo cada causa com empenho estratégico e determinação. Quando você
+          confia em meu trabalho, pode ter certeza: a sua causa será conduzida
+          com excelência até o fim.
           <br />
           <br />
         </p>
