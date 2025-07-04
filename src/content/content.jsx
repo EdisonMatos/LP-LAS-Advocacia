@@ -131,18 +131,18 @@ const content = {
       miniTag: "PREVIDENCIÁRIO, TRABALHISTA E CONSUMERISTA EM SALVADOR - BA",
       title: (
         <h1 className="mb-[16px]">
-          O sistema conta com
-          <span className="text-primary"> seu silêncio</span>
+          A inércia compromete
+          <span className="text-primary"> sua defesa</span>
         </h1>
       ),
       subtitle:
-        "Enquanto você espera, seus direitos seguem sendo deixados pra trás. Chega disso.",
+        "A omissão é adversária do Direito. Não permita que seus interesses sejam negligenciados.",
       heroImgPhone: heroImgPhone, // img da pessoa mobile
       heroDesktop: heroImgDesktop, //bg com foto da pessoa
       heroImg: bgHeroImg, //fundo da Hero
       heroDefaultImage: heroDefaultImg, //imagem da heroDefault Mobile
       backgroundPerson: backgroundPersonMobile,
-      ctaButtonText: "Atue com quem resolve",
+      ctaButtonText: "Aja com respaldo jurídico",
       obsHero: {
         icon: (
           <svg
@@ -162,7 +162,7 @@ const content = {
             <path d="m16 18 2 2 4-4" />
           </svg>
         ),
-        text: "Atendimento presencial e online para todo território nacional.",
+        text: "Consultas presenciais e virtuais com abrangência nacional.",
       },
       ctaButtonAriaLabel:
         "Botão para chamada de ação para contato pelo whatsapp",
@@ -189,15 +189,15 @@ const content = {
     },
     features: {
       miniTag: "ÁREAS DE ATUAÇÃO",
-      title: "Compromisso com a justiça em diversas frentes",
+      title: "Excelência jurídica em múltiplos ramos do Direito",
       subtitle:
-        "Atuação firme e acessível em defesa dos seus direitos, onde for preciso",
+        "Atuação estratégica, com rigor técnico e disponibilidade, em defesa intransigente de seus direitos.",
       imgFeatures: imgFeatures,
       imgDivisor: imgDivisor,
       card1: {
         img: featuresImg1,
         title: "Direito Previdenciário e do Trabalho",
-        subtitle: "Aposentadorias, benefícios e direitos do trabalhador.",
+        subtitle: "Planejamento de aposentadorias e direitos trabalhistas.",
         description: (
           <div>
             A_Definir
@@ -218,13 +218,12 @@ const content = {
             stroke-width="2"
             stroke-linecap="round"
             stroke-linejoin="round"
-            class="lucide lucide-stethoscope-icon lucide-stethoscope"
+            class="lucide lucide-briefcase-business-icon lucide-briefcase-business"
           >
-            <path d="M11 2v2" />
-            <path d="M5 2v2" />
-            <path d="M5 3H4a2 2 0 0 0-2 2v4a6 6 0 0 0 12 0V5a2 2 0 0 0-2-2h-1" />
-            <path d="M8 15a6 6 0 0 0 12 0v-3" />
-            <circle cx="20" cy="10" r="2" />
+            <path d="M12 12h.01" />
+            <path d="M16 6V4a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v2" />
+            <path d="M22 13a18.15 18.15 0 0 1-20 0" />
+            <rect width="20" height="14" x="2" y="6" rx="2" />
           </svg>
         ),
         buttonLabelModal: "Fale Conosco",
@@ -233,7 +232,7 @@ const content = {
       card2: {
         img: featuresImg2,
         title: "Direito do Consumidor e Administrativo",
-        subtitle: "Defesa do consumidor e atuação na esfera pública.",
+        subtitle: "Defesa técnica do consumidor e atuação pública eficaz.",
         description: (
           <div>
             A_Definir
@@ -269,7 +268,7 @@ const content = {
       card3: {
         img: featuresImg3,
         title: "Direito de Família e Sucessões",
-        subtitle: "Divórcios, pensões, guarda e inventários judiciais.",
+        subtitle: "Relações familiares, partilhas e sucessões legais.",
         description: (
           <div>
             A_Definir <br />
@@ -303,7 +302,7 @@ const content = {
       card4: {
         img: featuresImg4,
         title: "Direito Penal, Processual Penal e Propriedade",
-        subtitle: "Defesas criminais e proteção de bens e patrimônios.",
+        subtitle: "Garantias penais e proteção jurídica do patrimônio.",
         description: (
           <div>
             A_Definir
@@ -397,42 +396,42 @@ const content = {
         alt: "Imagem profissional de escritório/advogado(a)",
       },
       miniTag: "QUEM É O DR. LOURIVAL ALMEIDA",
-      title: "Minha trajetória",
+      title: "Minha trajetória profissional",
       subtitle:
-        "Justiça com coragem, empatia e compromisso com quem mais precisa",
+        "Comprometido com justiça acessível, humana e tecnicamente eficaz",
       labelInstagram: "Siga-nos no Instagram",
       labelFacebook: "Siga-nos no Facebook",
       labelLinkedin: "Siga-nos no LinkedIn",
       labelX: "Siga-nos no X",
       paragraph: (
         <div>
-          Minha atuação é guiada por valores firmes: transparência, coragem
-          diante dos desafios e compromisso com o resultado.
+          Minha atuação é pautada por valores sólidos: transparência, coragem
+          frente aos desafios e compromisso inegociável com os resultados.
           <br />
-          Acredito que a justiça deve ser acessível a todos — por isso, ofereço
-          condições que facilitam o acesso jurídico, sem burocracia e sem
-          discriminação.
+          Acredito em um Direito acessível e inclusivo — por isso, proporciono
+          condições facilitadas de atendimento, sempre com clareza, objetividade
+          e respeito.
         </div>
       ),
       buttonModalLabelAbout: "Continuar lendo",
       modal: (
         <p>
-          Minha atuação é guiada por valores firmes: transparência, coragem
-          diante dos desafios e compromisso com o resultado.
+          Minha atuação é pautada por valores sólidos: transparência, coragem
+          frente aos desafios e compromisso inegociável com os resultados.
           <br />
           <br />
-          Acredito que a justiça deve ser acessível a todos — por isso, ofereço
-          condições que facilitam o acesso jurídico, sem burocracia e sem
-          discriminação.
+          Acredito em um Direito acessível e inclusivo — por isso, proporciono
+          condições facilitadas de atendimento, sempre com clareza, objetividade
+          e respeito.
           <br />
           <br />
-          Aqui, cada cliente é tratado com respeito, clareza e linguagem direta,
-          independentemente da posição social.
+          Cada cliente é tratado com seriedade e escuta ativa, independentemente
+          de sua posição social.
           <br />
           <br />
-          Assumo cada causa com garra, sempre buscando a melhor solução — porque
-          sim, tudo tem solução. E quando você confia sua defesa ou seus
-          direitos ao meu trabalho, saiba: eu vou até o fim por você.
+          Assumo cada causa com empenho estratégico e determinação. Quando você
+          confia em meu trabalho, pode ter certeza: a sua causa será conduzida
+          com excelência até o fim.
           <br />
           <br />
         </p>
@@ -459,11 +458,10 @@ const content = {
     cta: {
       backgroundImg: ctaWhatsappImgBg,
       miniTag: "FALE CONOSCO",
-      title:
-        "Enfrentando um problema jurídico? Deixe que cuidamos disso para você!",
+      title: "Dificuldades jurídicas? Conte com nossa atuação especializada.",
       subtitle:
-        "Converse com nossa equipe. Estamos prontos para oferecer a orientação jurídica de que você precisa.",
-      ctaButtonText: "Entre em contato pelo WhatsApp",
+        "Estamos à disposição para oferecer orientação jurídica qualificada e personalizada.",
+      ctaButtonText: "Fale agora conosco via WhatsApp",
     },
     steps: {
       miniTag: "PASSO A PASSO",
